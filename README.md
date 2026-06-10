@@ -27,14 +27,6 @@ By automating the tedious, manual drafting work that usually takes engineers day
 1. **Upload:** The engineer uploads a scanned or digital P&ID sheet (PDF/PNG) to the platform.
 2. **Process:** The AI pipeline processes the image on the backend, runs object detection, and constructs the topological connection matrix.
 3. **Export:** After verifying the results on an interactive web interface, the engineer downloads the production-ready engineering file in their preferred format.
-
----
-
-## 👥 Our Team
-
-* **Mahammad** — AI / Data Science Lead
-* **Mohammad Isa** — Computer Scientist / Backend Developer
-* **Lala Imanzada** — Marketing & Growth Lead
-
+   
 ---
 📧 **Contact:** For any questions, feedback, or collaboration inquiries, feel free to open an issue in this repository.
